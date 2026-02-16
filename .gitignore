@@ -1,0 +1,4 @@
+Resume_Analyzer_env/
+__pycache__/
+.env
+temp_resume.pdf
