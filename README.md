@@ -1,4 +1,4 @@
-# 🧠 AI Resume Intelligence Platform
+ AI Resume Intelligence Platform
 
 A production-ready, Dockerized AI-powered resume analysis platform built using FastAPI, Streamlit, and OpenRouter LLM APIs.
 
@@ -6,9 +6,9 @@ This platform performs intelligent resume evaluation, ATS scoring, job-descripti
 
 ---
 
-## 🚀 Core Features
+-- Core Features
 
-### 🔍 ATS Resume Analysis
+###  ATS Resume Analysis
 Upload a resume PDF and receive:
 
 - ATS Score (0–100)
@@ -19,7 +19,7 @@ Upload a resume PDF and receive:
 
 ---
 
-### 🎯 Resume vs Job Description Matching
+###  Resume vs Job Description Matching
 
 Paste a Job Description to receive:
 
@@ -31,7 +31,7 @@ Paste a Job Description to receive:
 
 ---
 
-### ✨ Resume Optimization
+###  Resume Optimization
 
 Generate a fully rewritten, ATS-friendly resume:
 
@@ -46,7 +46,7 @@ Export as:
 
 ---
 
-### 📝 AI Cover Letter Generator
+###  AI Cover Letter Generator
 
 Generate a professional, job-specific cover letter using:
 
@@ -58,7 +58,7 @@ Export as:
 
 ---
 
-## 📊 UI Features
+##  UI Features
 
 - Skill Coverage Heatmap
 - Dark Mode Toggle
@@ -83,7 +83,7 @@ Docker Compose orchestrates:
 
 ---
 
-## 🧠 Technology Stack
+##  Technology Stack
 
 Backend: FastAPI  
 Frontend: Streamlit  
@@ -95,7 +95,7 @@ Environment Handling: python-dotenv
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 AI-Resume-Analyzer-Microservice/
 
@@ -114,7 +114,7 @@ requirements.txt
 
 ---
 
-## 🐳 Run With Docker
+##  Run With Docker
 
 1. Clone Repository
 
@@ -136,7 +136,7 @@ Backend Docs → http://localhost:8000/docs
 
 ---
 
-## 🛡 Engineering Practices
+##  Engineering Practices
 
 - JSON sanitization for LLM responses  
 - Markdown stripping before JSON parsing  
@@ -147,13 +147,13 @@ Backend Docs → http://localhost:8000/docs
 
 ---
 
-## 📈 Version
+##  Version
 
 v1.0 – Initial Production Release  
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Shivani  
 AI & Backend Engineer
