@@ -68,7 +68,7 @@ Export as:
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 Streamlit Frontend  
 ↓  
